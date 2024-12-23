@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a software engineer at [Browserbase](https://www.browserbase.com/) responsible for maintaining and growing [Stagehand](https://github.com/browserbase/stagehand), the browser SDK
+I'm a software engineer at [Browserbase](https://www.browserbase.com/). I'm working on making [Stagehand](https://github.com/browserbase/stagehand) the fastest, easiest, and most performant SDK to automate browsers
+
 
