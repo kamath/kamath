@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a software engineer at [Browserbase](https://www.browserbase.com/). I'm working on making [Stagehand](https://github.com/browserbase/stagehand) the best framework for automating browsers
+I'm the cofounder of [Smithery](https://smithery.ai), the largest open marketplace for MCP servers. Before, I've worked on:
+- Making [Stagehand](https://github.com/browserbase/stagehand) the best framework for automating browsers with AI at [Browserbase](https://browserbase.com)
+- Feed ranking and personalization at [Whatnot](https://whatnot.com)
+- and [more](https://kamath.io)
+
 
