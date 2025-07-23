@@ -20,3 +20,4 @@ I'm the cofounder of [Smithery](https://smithery.ai), the largest open marketpla
 - and [more](https://kamath.io)
 
 
+[![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamath)](https://github.com/anuraghazra/github-readme-stats)
