@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm the cofounder of [Smithery](https://smithery.ai), the largest open marketplace for MCP servers. Before, I've worked on:
-- Making [Stagehand](https://github.com/browserbase/stagehand) the best framework for automating browsers with AI at [Browserbase](https://browserbase.com)
+- Making [Stagehand](https://github.com/browserbase/stagehand) the most downloaded AI Browser Automation framework (5m+ downloads)
 - Feed ranking and personalization at [Whatnot](https://whatnot.com)
-- and [more](https://kamath.io)
+...and [more](https://kamath.io)
 
 
 [![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamath)](https://github.com/anuraghazra/github-readme-stats)
