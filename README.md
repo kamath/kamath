@@ -17,11 +17,15 @@ Here are some ideas to get you started:
 I'm the cofounder of [Smithery](https://smithery.ai), the largest open marketplace for MCP servers. 
 
 Before, I've worked on:
-
-* 🤘 Making [Stagehand](https://github.com/browserbase/stagehand), the [most downloaded](https://www.npmjs.com/package/@browserbasehq/stagehand) AI browser automation framework (500k weekly downloads) as a Tech Lead at 🅱️ [Browserbase](https://browserbase.com). I also contributed to:
+* AI at 🅱️ Browserbase (Tech/Product Lead, Engineer #5). I was responsible for (and/or a top contributor to):
+  * **🤘 [Stagehand](https://github.com/browserbase/stagehand)**: the most popular AI browser automation SDK ([500k weekly downloads](https://www.npmjs.com/package/@browserbasehq/stagehand)).
   * **[Browserbase MCP](https://github.com/browserbase/mcp-server-browserbase)**: one of the very first MCP servers (published within 24 hours of MCP's original release)
   * **[Open Operator](https://github.com/browserbase/open-operator)**: a simple open-source browser agent
   * **[Director](https://director.ai)**: a closed-source SOTA browser agent by Browserbase, powered by Stagehand
-* 💛 Feed ranking and personalization at [Whatnot](https://whatnot.com)
+* 💛 Feed ranking and personalization at [Whatnot](https://whatnot.com).
+
+I've also had a few side quests and stints at being a founder before. Check out:
+* [Barbell](https://github.com/kamath/barbell-monorepo): an SDK I made for building Slackbots
+* [dotcom.chat](https://github.com/kamath/dotcom.chat): an early and simple MCP client
 
 See more at my website: [kamath.io](https://kamath.io)
