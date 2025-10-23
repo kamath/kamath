@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm the cofounder of [Smithery](https://smithery.ai), the largest open marketplace for MCP servers. 
 
 Before, I've worked on:
-* AI at 🅱️ Browserbase (Tech/Product Lead, Engineer #5). I was responsible for (and/or a top contributor to):
+* 🅱️ AI at Browserbase. I was responsible for (and/or a top contributor to):
   * **🤘 [Stagehand](https://github.com/browserbase/stagehand)**: the most popular AI browser automation SDK ([500k weekly downloads](https://www.npmjs.com/package/@browserbasehq/stagehand)).
   * **[Browserbase MCP](https://github.com/browserbase/mcp-server-browserbase)**: one of the very first MCP servers (published within 24 hours of MCP's original release)
   * **[Open Operator](https://github.com/browserbase/open-operator)**: a simple open-source browser agent
