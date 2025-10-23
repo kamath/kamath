@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm the cofounder of [Smithery](https://smithery.ai), the largest open marketplace for MCP servers. Before, I've worked on:
-- Making [Stagehand](https://github.com/browserbase/stagehand) the most downloaded AI browser automation framework (5m+ downloads)
-- Feed ranking and personalization at [Whatnot](https://whatnot.com)
-- ...and [more](https://kamath.io)
+I'm the cofounder of [Smithery](https://smithery.ai), the largest open marketplace for MCP servers. 
+
+Before, I've worked on:
+
+* 🤘 Making [Stagehand](https://github.com/browserbase/stagehand) the most downloaded AI browser automation framework (5m+ downloads)
+* 💛 Feed ranking and personalization at [Whatnot](https://whatnot.com)
+
+See more at my website: [kamath.io](https://kamath.io)
