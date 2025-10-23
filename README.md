@@ -19,9 +19,9 @@ I'm the cofounder of [Smithery](https://smithery.ai), the largest open marketpla
 Before, I've worked on:
 * 🅱️ AI at Browserbase. I was responsible for (and/or a top contributor to):
   * **🤘 [Stagehand](https://github.com/browserbase/stagehand)**: the most popular AI browser automation SDK ([500k weekly downloads](https://www.npmjs.com/package/@browserbasehq/stagehand)).
+  * **🧭 [Director](https://director.ai)**: a closed-source SOTA browser agent by Browserbase, powered by Stagehand
   * **[Browserbase MCP](https://github.com/browserbase/mcp-server-browserbase)**: one of the very first MCP servers (published within 24 hours of MCP's original release)
   * **[Open Operator](https://github.com/browserbase/open-operator)**: a simple open-source browser agent
-  * **[Director](https://director.ai)**: a closed-source SOTA browser agent by Browserbase, powered by Stagehand
 * 💛 Feed ranking and personalization at [Whatnot](https://whatnot.com).
 
 I've also had a few side quests and stints at being a founder before. Check out:
