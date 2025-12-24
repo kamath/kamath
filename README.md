@@ -27,5 +27,6 @@ Before, I've worked on:
 I've also had a few side quests and stints at being a founder before. Check out:
 * [Barbell](https://github.com/kamath/barbell-monorepo): an SDK I made for building Slackbots
 * [dotcom.chat](https://github.com/kamath/dotcom.chat): an early and simple MCP client
+* [ClankerRank](https://clankerrank.com): An AI-generated LeetCode platform
 
 See more at my website: [kamath.io](https://kamath.io)
