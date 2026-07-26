@@ -22,4 +22,5 @@ I'm the cofounder of [Smithery](https://smithery.ai), the largest open marketpla
   * **[Open Operator](https://github.com/browserbase/open-operator)**: an open-sourced version of [OpenAI Operator
 ](https://x.com/pk_iv/status/1882496063535460455)
 * automated clinops analytics for biopharma execs as a founding engineer at [Miracle](https://miracleml.com)
-* worked on feed ranking and personalization as an early engineer at [Whatnot](https://whatnot.com
+* worked on feed ranking and personalization as an early engineer at [Whatnot](https://whatnot.com)
+
