@@ -1,6 +1,6 @@
 ## Hi I'm Anirudh 👋
 
-I'm an engineer who likes solving real problems. Code I have written is part of production workflows at Fortune 50 companies, decacorns like [Ramp](https://ramp.com/) and [Clay](https://www.clay.com/), and biopharma companies like [Inhibikase (NASDAQ: IKT)](https://www.inhibikase.com/) and [Mineralys (NASDAQ: MLYS)](https://mineralystx.com/).
+I'm an engineer who likes solving real problems. My code runs in production at Fortune 50 companies, decacorns like [Ramp](https://ramp.com/) and [Clay](https://www.clay.com/), and biopharma companies like [Inhibikase (NASDAQ: IKT)](https://www.inhibikase.com/) and [Mineralys (NASDAQ: MLYS)](https://mineralystx.com/).
 
 
 <!--
