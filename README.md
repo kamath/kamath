@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm the cofounder of [Smithery](https://smithery.ai), the largest open marketplace for MCP servers. 
-
-Before, I've:
+I'm the cofounder of [Smithery](https://smithery.ai), the largest open marketplace for MCP servers. Before, I've:
 * led AI at 🅱️ [Browserbase](https://browserbase.com). I was responsible for (and/or a meaningful contributor to):
   * **🤘 [Stagehand](https://github.com/browserbase/stagehand)**: the AI browser automation framework used in production by Ramp, Clay, and Lovable
   * **[Director](https://director.ai)**: a closed-source SOTA browser agent
