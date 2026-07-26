@@ -1,5 +1,8 @@
 ## Hi I'm Anirudh 👋
 
+I'm an engineer who likes solving real problems. Code I have written is part of production workflows at Fortune 50 companies, decacorns like [Ramp](https://ramp.com/) and [Clay](https://www.clay.com/), and biopharma companies like Inhibikase (NASDAQ: IKT) and Mineralys (NASDAQ: MLYS)
+
+
 <!--
 **kamath/kamath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm the cofounder of 
 * co-founded [Smithery](https://smithery.ai), aiming to build [Google for a New Internet](https://writing.kamath.io/Google-for-a-new-internet-30213271ad6580feb5e9df2dea64dc50)
 * led AI at 🅱️ [Browserbase](https://browserbase.com). I was responsible for (and/or a meaningful contributor to):
   * **🤘 [Stagehand](https://github.com/browserbase/stagehand)**: the AI browser automation framework used in production by Ramp, Clay, and Lovable
