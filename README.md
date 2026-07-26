@@ -16,17 +16,12 @@ Here are some ideas to get you started:
 -->
 I'm the cofounder of [Smithery](https://smithery.ai), the largest open marketplace for MCP servers. 
 
-Before, I've worked on:
-* 🅱️ AI at Browserbase. I was responsible for (and/or a top contributor to):
-  * **🤘 [Stagehand](https://github.com/browserbase/stagehand)**: the most popular AI browser automation SDK ([500k weekly downloads](https://www.npmjs.com/package/@browserbasehq/stagehand)).
-  * **🧭 [Director](https://director.ai)**: a closed-source SOTA browser agent by Browserbase, powered by Stagehand
-  * **[Browserbase MCP](https://github.com/browserbase/mcp-server-browserbase)**: one of the very first MCP servers (published within 24 hours of MCP's original release)
-  * **[Open Operator](https://github.com/browserbase/open-operator)**: a simple open-source browser agent
-* 💛 Feed ranking and personalization at [Whatnot](https://whatnot.com).
-
-I've also had a few side quests and stints at being a founder before. Check out:
-* [Barbell](https://github.com/kamath/barbell-monorepo): an SDK I made for building Slackbots
-* [dotcom.chat](https://github.com/kamath/dotcom.chat): an early and simple MCP client
-* [ClankerRank](https://clankerrank.com): An AI-generated LeetCode platform
-
-See more at my website: [kamath.io](https://kamath.io)
+Before, I've:
+* led AI at 🅱️ [Browserbase](https://browserbase.com). I was responsible for (and/or a meaningful contributor to):
+  * **🤘 [Stagehand](https://github.com/browserbase/stagehand)**: the AI browser automation framework used in production by Ramp, Clay, and Lovable
+  * **[Director](https://director.ai)**: a closed-source SOTA browser agent
+  * **[Browserbase MCP](https://github.com/browserbase/mcp-server-browserbase)**: published and maintained since initial protocol release day
+  * **[Open Operator](https://github.com/browserbase/open-operator)**: an open-sourced version of [OpenAI Operator
+](https://x.com/pk_iv/status/1882496063535460455)
+* automated clinops analytics for biopharma execs as a founding engineer at [Miracle](https://miracleml.com)
+* worked on feed ranking and personalization as an early engineer at [Whatnot](https://whatnot.com
